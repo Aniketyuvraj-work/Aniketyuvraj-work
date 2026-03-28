@@ -26,4 +26,5 @@ I am a curious student pursuing BCA with specialization in AI & ML at Srinath Un
 
  💻 Tech Stack
 `C` `C++` `Python` `HTML` `CSS` `JavaScript`
+[Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketyuvraj-work&show_icons=true&theme=radical)
 
