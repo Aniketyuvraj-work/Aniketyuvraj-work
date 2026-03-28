@@ -21,7 +21,7 @@ I am a curious student pursuing BCA with specialization in AI & ML at Srinath Un
   🎨  HTML, CSS, JavaScript
 
   🌐 Socials
-  LinkedIn ID:-https://www.linkedin.com/in/aniket-yuvraj-438738375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  LinkedIn ID:-https://www.linkedin.com/in/aniket-yuvraj-438738375
   Email ID:-yuvrajank0693@gmail.com
 
  💻 Tech Stack
